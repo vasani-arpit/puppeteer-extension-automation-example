@@ -1,0 +1,27 @@
+{
+  "name": "puppeteer-extension-automation-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vasani-arpit/puppeteer-extension-automation-example.git"
+  },
+  "keywords": [
+    "google",
+    "Puppeteer",
+    "automation"
+  ],
+  "author": "Arpit Vasani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vasani-arpit/puppeteer-extension-automation-example/issues"
+  },
+  "homepage": "https://github.com/vasani-arpit/puppeteer-extension-automation-example#readme",
+  "dependencies": {
+    "puppeteer": "^2.0.0"
+  }
+}
