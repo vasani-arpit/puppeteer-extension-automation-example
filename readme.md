@@ -22,7 +22,7 @@ The solution is to load the extension at the time of starting the chromium insta
 1. copy the extension to your puppeteer directory
 1. Follow the code given in `index.js` to automate
 
-That's it. 
+That's it. 🌟 the repo if it is useful to you.
 
 ## ⚠ Limitations
 
